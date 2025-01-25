@@ -1,5 +1,5 @@
 # 💫 About Me:
-- 👋 Hi, I’m @VikasSingh30<br>- 👀 I’m interested in many things<br>- 🌱 I’m currently learning full stack<br>- 💞️ I’m looking to collaborate on projects<br>- 📫 To reach you can dm on linked-in <br>- 😄 Lets work and help each other to grow<br>- ⚡ Happy coding
+- 👋 Hi, I’m @VikasSingh30<br>- 👀 I’m interested in creative and functional programming<br>- 🌱 I’m a full stack developer <br>- 💞️ I’m looking to collaborate on projects<br>- 📫 To reach you can dm on linked-in <br>- 😄 Lets work and help each other to grow<br>- ⚡ Happy coding
 
 
 ## 🌐 Socials:
