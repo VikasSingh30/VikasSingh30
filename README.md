@@ -1,12 +1,14 @@
-# 💫 About Me:
+![👋 ](https://user-images.githubusercontent.com/10498744/210012254-234538ff-d198-48aa-8964-37e6fd45d227.gif)
+<div align="center">
+  
 # 👋 Hi, I’m @VikasSingh30  
 
-- 👀 Passionate about **creative and functional programming**.  
-- 🌱 A **Full-Stack Developer** exploring modern web technologies.  
-- 💞️ Open to **collaborating on impactful projects** and contributing to open-source.  
-- 📫 Reach out to me on Social – Let’s connect!  
-- 😄 Always eager to **learn, share, and grow** together.  
-- ⚡ **Code. Build. Innovate. Repeat.**  
+ 👀 Passionate about **creative and functional programming**.  
+ 🌱 A **Full-Stack Developer** exploring modern web technologies.  
+ 💞️ Open to **collaborating on impactful projects** and contributing to open-source.  
+ 📫 Reach out to me on Social – Let’s connect!  
+ 😄 Always eager to **learn, share, and grow** together.  
+ ⚡ **Code. Build. Innovate. Repeat.**  
 
 
 ## 🌐 Socials:
